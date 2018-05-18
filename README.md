@@ -1,0 +1,2 @@
+# Data-Analysis-of-Machine-Check-Exception-Rates
+The goal of this project is to quantify the reliability of the Blue Waters memory subsystem i.e., if it fails, how frequently it fails, and how it fails. Syslog data (particularly pertaining to Machine Check Exceptions) from the system has been chunked into 2 month periods, pre-processed (parsed and cleaned up) and tabulated for use in this project. 
